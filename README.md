@@ -1,26 +1,26 @@
-# README
+# Augmented DDPG for Portfolio Optimizaiton
 
-This is the repository of a Final Year Project conducted by Runsheng LIN, Zihan XING, and Mingze MA, and supervised by Dr. Raymond LEE in Dec 2022. 
+This work is conducted by Runsheng LIN, Zihan XING, and Mingze MA, and supervised by Dr. Raymond LEE in Dec 2022. 
 
 The detailed usage of the components in the repository is as follows:
 
-#### Data
+## Data
 
 We selected the 5 most popular forex products in the world as our data, Including the data set for training and the unseen data for testing.
 
-#### Environment
+## Environment
 
 The environment settings for Reinforcement Learning.
 
-#### tools
+## tools
 
 Some necessary tools to implement the models, such as the data loader and the OU Process in the DDPG model. 
 
-#### models
+## models
 
 The model structure of the original DDPG and our model.
 
-#### QF_ADDPG
+## QF_ADDPG
 
 The code of the implementation of our model
 
